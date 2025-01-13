@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Computer Science student at the **University of Toronto**, passionate about **Data Science**, **Machine Learning**, and **Web Development**. I enjoy learning new technologies, building impactful projects, and solving exciting challenges!</p>
+<p align="left">I'm a Computer Science student at the *University of Toronto*, passionate about **Data Science**, **Machine Learning**, and **Web Development**. I enjoy learning new technologies, building impactful projects, and solving exciting challenges!</p>
 
 ###
 

@@ -1,24 +1,12 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hello World👋</h1>
 
 ###
 
-<p align="left">I'm a Computer Science student at the University of Toronto with a passion for Data Science, Machine Learning, and Web Development.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">I'm a Computer Science student at the **University of Toronto**, passionate about **Data Science**, **Machine Learning**, and **Web Development**. I enjoy learning new technologies, building impactful projects, and solving exciting challenges!</p>
 
 ###
 
 <h2 align="left">Languages & Tools</h2>
-
-###
-
-<h4 align="center">Languages</h4>
 
 ###
 
@@ -38,10 +26,6 @@
 
 ###
 
-<h4 align="center">Libraries</h4>
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="40" alt="flask logo"  />
   <img width="12" />
@@ -51,10 +35,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" height="40" alt="pytest logo"  />
 </div>
-
-###
-
-<h4 align="center">Tools</h4>
 
 ###
 

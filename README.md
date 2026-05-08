@@ -1,10 +1,6 @@
-<div align="center">
-
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hey, I'm Jaynik.
 
 I build stuff I use.
-
-</div>
 
 ### 🌟
 

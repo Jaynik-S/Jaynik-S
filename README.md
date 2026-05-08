@@ -6,7 +6,7 @@ I build stuff I use.
 
 </div>
 
-### Spotlight
+### 🌟
 
 <a href="https://github.com/Jaynik-S/Playgenix">
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Jaynik-S&repo=Playgenix&theme=tokyonight" />
@@ -20,7 +20,7 @@ I build stuff I use.
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Jaynik-S&repo=PianoAnnotations&theme=tokyonight" />
 </a>
 
-### Top Repositories
+### 🔥
 
 | Repository | Description | Language/Technologies |
 |---|---|---|
@@ -39,7 +39,7 @@ I build stuff I use.
 | [**block-site**](https://github.com/Jaynik/block-site) | DESC | LANGS |
 
 
-### Links
+### 🔗
 
 - [jaynik.me](https://jaynik.me)
 - [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/)

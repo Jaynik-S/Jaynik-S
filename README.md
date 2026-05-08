@@ -1,53 +1,45 @@
-<h1 align="left">Hello World👋</h1>
-
-###
-
-<p align="left">I'm a Computer Science student at the <em>University of Toronto</em>, passionate about <strong>Data Science</strong>, <strong>Machine Learning</strong>, and <strong>Web Development</strong>. I enjoy learning new technologies, building impactful projects, and solving exciting challenges!</p>
-
-###
-
-<h2 align="left">Languages & Tools</h2>
-
-###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+
+### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hey, I'm Jaynik.
+
+I build stuff I use.
+
 </div>
 
-###
+### Spotlight
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" height="40" alt="pytest logo"  />
-</div>
+<a href="https://github.com/Jaynik-S/Playgenix">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Jaynik-S&repo=Playgenix&theme=tokyonight" />
+</a>
 
-###
+<a href="https://github.com/Jaynik-S/SentimentScribe">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Jaynik-S&repo=SentimentScribe&theme=tokyonight" />
+</a>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
-</div>
+<a href="https://github.com/Jaynik-S/PianoAnnotations">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Jaynik-S&repo=PianoAnnotations&theme=tokyonight" />
+</a>
 
-###
+### Top Repositories
+
+<!-- TOP_REPOS_START -->
+
+| Repository | Description | Language/Technologies |
+|---|---|---|
+| [**FocusArc**](https://github.com/Jaynik/FocusArc) | DESC | LANGS |
+| [**AutomatedBookmarking**](https://github.com/Jaynik/AutomatedBookmarking) | DESC | LANGS |
+| [**NBA_Insights**](https://github.com/Jaynik/NBA_Insights) | DESC | LANGS |
+| [**PromptPolish**](https://github.com/Jaynik/PromptPolish) | DESC | LANGS |
+| [**UofT_Adventure_Game**](https://github.com/Jaynik/UofT_Adventure_Game) | DESC | LANGS |
+| [**Toronto_Crime_Visualization**](https://github.com/Jaynik/Toronto_Crime_Visualization) | DESC | LANGS |
+| [**videopianonotes**](https://github.com/Jaynik/videopianonotes) | DESC | LANGS |
+| [**yt-music**](https://github.com/Jaynik/yt-music) | DESC | LANGS |
+| [**block-site**](https://github.com/Jaynik/block-site) | DESC | LANGS |
+
+<!-- TOP_REPOS_END -->
+
+### Links
+
+- [jaynik.me](https://jaynik.me)
+- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+- [Email](mailto:YOUR-EMAIL@example.com)

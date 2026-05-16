@@ -38,6 +38,6 @@ I build stuff that solves problems I actually run into.
 
 ### 🔗 Connect
 
-- [jaynik.me](https://jaynik.me)
+- [Portfolio](https://jaynik.me)
 - [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/)
 - [Email](mailto:YOUR-EMAIL@example.com)

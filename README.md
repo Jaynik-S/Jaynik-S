@@ -4,9 +4,9 @@ I build stuff that solves problems I actually run into.
 
 ### 🌟 Featured Projects
 
-<a href="https://github.com/Jaynik-S/Playgenix">
+<!-- <a href="https://github.com/Jaynik-S/Playgenix">
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Jaynik-S&repo=Playgenix&theme=tokyonight" />
-</a>
+</a> -->
 
 <a href="https://github.com/Jaynik-S/SentimentScribe">
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Jaynik-S&repo=SentimentScribe&theme=tokyonight" />

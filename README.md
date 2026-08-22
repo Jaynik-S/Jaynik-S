@@ -32,12 +32,11 @@ I build stuff that solves problems I actually run into.
 | Repository | Description | Language/Technologies |
 |---|---|---|
 | [**videopianonotes**](https://github.com/Jaynik-S/video2pianonotes) | Video-to-piano-annotation pipeline with YouTube/local input, MIDI extraction, and JSON/ASCII/HTML annotations. | Python, Bash, OpenCV, Pygame, MIDIUtil, pretty_midi, yt-dlp |
-| [**yt-music**](https://github.com/Jaynik-S/yt-music) | DESC | LANGS |
 | [**block-site**](https://github.com/Jaynik-S/block-site) | Site-blocking extension upgrade with daily limits, live countdowns, and +5-minute extensions. | TypeScript, Chrome Extension APIs, Jest |
 
 
 ### 🔗 Connect
 
-- [Portfolio](https://jaynik.me)
-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/)
-- [Email](mailto:YOUR-EMAIL@example.com)
+- [Portfolio](https://jaynik.codes)
+- [LinkedIn](https://www.linkedin.com/in/jayniksheth/)
+- [Email](mailto:jayniksheth3@gmail.com)

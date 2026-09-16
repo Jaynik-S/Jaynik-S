@@ -16,6 +16,10 @@ I build stuff for problems I actually run into.
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Jaynik-S&repo=PianoAnnotations&theme=tokyonight" />
 </a>
 
+<a href="https://github.com/Jaynik-S/Playgenix">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Jaynik-S&repo=Playgenix&theme=tokyonight" />
+</a>
+
 ### 🔥 Projects I’ve Built
 
 

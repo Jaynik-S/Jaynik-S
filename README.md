@@ -1,6 +1,6 @@
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hey, I'm Jaynik.
 
-I build stuff that solves problems I actually run into.
+I build stuff for problems I actually run into.
 
 ### 🌟 Featured Projects
 
